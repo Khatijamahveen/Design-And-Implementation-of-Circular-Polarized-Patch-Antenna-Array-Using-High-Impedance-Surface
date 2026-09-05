@@ -82,7 +82,7 @@ Microstrip patch antennas are essential for modern wireless communication, but t
 <br>
 
 ## 🧑‍💻 Author
-**[Your Name]**
+**Khatija Mahveen**
 - B.E. Electronics & Communication Engineering
 - M.E. Embedded Systems & IoT | PhD Aspirant
 - Focus: RF & Microwave Engineering, Embedded Systems
