@@ -35,44 +35,44 @@ Microstrip patch antennas are essential for modern wireless communication, but t
 <br>
 
 **Figure 2: 3D Simulation of the Antenna Array in HFSS**
-<img src="SimulatedImages/Simulated_Antenna.png" alt="Simulated Antenna" width="350"/>
+<img src="SimulatedImages/Simulated_Antenna.png" alt="Simulated Antenna" width="400"/>
 
 <br>
 
 **Figure 3: Simulated Return Loss Plot**
-<img src="SimulatedImages/Return_Loss.png" alt="Return Loss" width="350"/>
+<img src="SimulatedImages/Return_Loss.png" alt="Return Loss" width="400"/>
 
 <br>
 
 **Figure 4: Simulated VSWR Plot**
-<img src="SimulatedImages/VSWR.png" alt="VSWR" width="350"/>
+<img src="SimulatedImages/VSWR.png" alt="VSWR" width="400"/>
 
 <br>
 
 **Figure 5: Axial Ratio Plot**
-<img src="SimulatedImages/Axial_Ratio_Plot.png" alt="Axial Ratio" width="350"/>
+<img src="SimulatedImages/Axial_Ratio_Plot.png" alt="Axial Ratio" width="400"/>
 
 <br>
 
 ### 🏭 Fabricated Hardware & Testing
 
-**Figure 6: Measured Return Loss on VNA**
-<img src="FabricatedImages/VNA_ReturnLoss.png" alt="VNA Return Loss" width="350"/>
+**Figure 6: Fabricated Prototype**
+<img src="FabricatedImages/Fabricated_Antenna.png" alt="Fabricated Antenna" width="400"/>
 
 <br>
 
-**Figure 7: Additional VNA Return Loss Result**
-<img src="FabricatedImages/VNA_ReturnLoss_Antenna.png" alt="VNA Return Loss Antenna" width="350"/>
+**Figure 7: Measured Return Loss on VNA**
+<img src="FabricatedImages/VNA_ReturnLoss.png" alt="VNA Return Loss" width="400"/>
 
 <br>
 
 **Figure 8: Measured Smith Chart**
-<img src="FabricatedImages/VNA_SmithChart.png" alt="VNA Smith Chart" width="350"/>
+<img src="FabricatedImages/VNA_SmithChart.png" alt="VNA Smith Chart" width="400"/>
 
 <br>
 
 **Figure 9: Measured VSWR**
-<img src="FabricatedImages/VNA_VSWR.png" alt="VNA VSWR" width="350"/>
+<img src="FabricatedImages/VNA_VSWR.png" alt="VNA VSWR" width="400"/>
 
 <br>
 
