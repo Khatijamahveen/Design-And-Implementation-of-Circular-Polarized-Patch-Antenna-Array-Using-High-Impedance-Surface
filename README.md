@@ -62,7 +62,7 @@ Microstrip patch antennas are essential for modern wireless communication, but t
 <br>
 
 **Figure 7: Additional VNA Return Loss Result**
-<img src="FabricatedImages/VNA_ReturnLoss_2.png" alt="VNA Return Loss 2" width="350"/>
+<img src="FabricatedImages/VNA_ReturnLoss_Antenna.png" alt="VNA Return Loss Antenna" width="350"/>
 
 <br>
 
