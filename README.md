@@ -30,7 +30,7 @@ Microstrip patch antennas are essential for modern wireless communication, but t
 ### 📊 Simulated Results (HFSS)
 
 **Figure 1: Flowchart showing design methodology**
-<img src="SimulatedImages/Flowchart.png" alt="Design Flowchart" width="800"/>
+<img src="SimulatedImages/FlowChart.png" alt="Design FlowChart" width="800"/>
 
 <br>
 
