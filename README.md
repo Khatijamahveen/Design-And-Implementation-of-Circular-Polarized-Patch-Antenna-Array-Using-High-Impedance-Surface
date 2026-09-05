@@ -30,59 +30,49 @@ Microstrip patch antennas are essential for modern wireless communication, but t
 ### 📊 Simulated Results (HFSS)
 
 **Figure 1: Flowchart showing design methodology**
-<img src="SimulatedImages/Flowchart.png" alt="Design Flowchart" width="700"/>
+<img src="SimulatedImages/Flowchart.png" alt="Design Flowchart" width="600"/>
 
 <br>
 
-**Figure 2: Proposed Antenna Array (Top View)**
-<img src="SimulatedImages/Antenna_Top_View.png" alt="Top View" width="400"/>
+**Figure 2: 3D Simulation of the Antenna Array in HFSS**
+<img src="SimulatedImages/Simulated_Antenna.png" alt="Simulated Antenna" width="350"/>
 
 <br>
 
-**Figure 3: Proposed Antenna Array (Side View)**
-<img src="SimulatedImages/Antenna_Side_View.png" alt="Side View" width="400"/>
+**Figure 3: Simulated Return Loss Plot**
+<img src="SimulatedImages/Return_Loss.png" alt="Return Loss" width="350"/>
 
 <br>
 
-**Figure 4: 3D Simulation of the Antenna Array in HFSS**
-<img src="SimulatedImages/Simulated_Antenna.png" alt="Simulated Antenna" width="400"/>
+**Figure 4: Simulated VSWR Plot**
+<img src="SimulatedImages/VSWR.png" alt="VSWR" width="350"/>
 
 <br>
 
-**Figure 5: Simulated Return Loss Plot**
-<img src="SimulatedImages/Return_Loss.png" alt="Return Loss" width="400"/>
-
-<br>
-
-**Figure 6: Simulated VSWR Plot**
-<img src="SimulatedImages/VSWR.png" alt="VSWR" width="400"/>
-
-<br>
-
-**Figure 7: Axial Ratio Plot**
-<img src="SimulatedImages/Axial_Ratio_Plot.png" alt="Axial Ratio" width="400"/>
+**Figure 5: Axial Ratio Plot**
+<img src="SimulatedImages/Axial_Ratio_Plot.png" alt="Axial Ratio" width="350"/>
 
 <br>
 
 ### 🏭 Fabricated Hardware & Testing
 
-**Figure 8: Measured Return Loss on VNA**
-<img src="FabricatedImages/VNA_ReturnLoss.png" alt="VNA Return Loss" width="400"/>
+**Figure 6: Measured Return Loss on VNA**
+<img src="FabricatedImages/VNA_ReturnLoss.png" alt="VNA Return Loss" width="350"/>
 
 <br>
 
-**Figure 9: Detailed VNA Return Loss Result**
-<img src="FabricatedImages/VNA_ReturnLoss_2.png" alt="VNA Return Loss 2" width="400"/>
+**Figure 7: Additional VNA Return Loss Result**
+<img src="FabricatedImages/VNA_ReturnLoss_2.png" alt="VNA Return Loss 2" width="350"/>
 
 <br>
 
-**Figure 10: Measured Smith Chart**
-<img src="FabricatedImages/VNA_SmithChart.png" alt="VNA Smith Chart" width="400"/>
+**Figure 8: Measured Smith Chart**
+<img src="FabricatedImages/VNA_SmithChart.png" alt="VNA Smith Chart" width="350"/>
 
 <br>
 
-**Figure 11: Measured VSWR**
-<img src="FabricatedImages/VNA_VSWR.png" alt="VNA VSWR" width="400"/>
+**Figure 9: Measured VSWR**
+<img src="FabricatedImages/VNA_VSWR.png" alt="VNA VSWR" width="350"/>
 
 <br>
 
