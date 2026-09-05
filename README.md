@@ -25,21 +25,6 @@ Microstrip patch antennas are essential for modern wireless communication, but t
 - **Radiation Efficiency:** Improved from 38% to 61% with EBG
 - **Correlation:** High correlation achieved between simulated and measured results.
 
-## 🖼️ Project Images
-
-<div align="center">
-
-<img src="images/simulated_antenna.png" alt="Simulated Antenna" width="500"/>
-<p><em>Figure 1: 3D Simulation of the Antenna Array in HFSS</em></p>
-
-<img src="images/fabricated_antenna.png" alt="Fabricated Antenna" width="500"/>
-<p><em>Figure 2: Fabricated Prototype of the Antenna Array</em></p>
-
-<img src="images/vna_results.png" alt="VNA Results" width="500"/>
-<p><em>Figure 3: Return Loss Measured on Vector Network Analyzer</em></p>
-
-</div>
-
 ## 🧑‍💻 Author
 **[Your Name]**
 - B.E. Electronics & Communication Engineering
