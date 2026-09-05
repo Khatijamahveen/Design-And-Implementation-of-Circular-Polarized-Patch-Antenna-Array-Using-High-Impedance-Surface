@@ -56,22 +56,27 @@ Microstrip patch antennas are essential for modern wireless communication, but t
 
 ### 🏭 Fabricated Hardware & Testing
 
-**Figure 6: Fabricated Prototype**
-<img src="FabricatedImages/Fabricated_Antenna.png" alt="Fabricated Antenna" width="400"/>
+**Figure 6: Fabricated Antenna (Front View)**
+<img src="FabricatedImages/FabricatedAntenna_Frontview.png" alt="Fabricated Antenna Front View" width="400"/>
 
 <br>
 
-**Figure 7: Measured Return Loss on VNA**
+**Figure 7: Fabricated Antenna (Back View)**
+<img src="FabricatedImages/FabricatedAntenna_Backview.png" alt="Fabricated Antenna Back View" width="400"/>
+
+<br>
+
+**Figure 8: Measured Return Loss on VNA**
 <img src="FabricatedImages/VNA_ReturnLoss.png" alt="VNA Return Loss" width="400"/>
 
 <br>
 
-**Figure 8: Measured Smith Chart**
+**Figure 9: Measured Smith Chart**
 <img src="FabricatedImages/VNA_SmithChart.png" alt="VNA Smith Chart" width="400"/>
 
 <br>
 
-**Figure 9: Measured VSWR**
+**Figure 10: Measured VSWR**
 <img src="FabricatedImages/VNA_VSWR.png" alt="VNA VSWR" width="400"/>
 
 <br>
