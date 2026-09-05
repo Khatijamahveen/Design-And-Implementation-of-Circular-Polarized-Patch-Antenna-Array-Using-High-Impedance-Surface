@@ -28,56 +28,41 @@ Microstrip patch antennas are essential for modern wireless communication, but t
 ## 🖼️ Project Images
 
 ### 📊 Simulated Results (HFSS)
-<div align="center">
-    <img src="SimulatedImages/Flowchart.png" alt="Design Flowchart" width="1000"/>
 
-    <p><em>Figure 1: Flowchart showing design methodology</em></p>
+**Figure 1: Flowchart showing design methodology**
+<img src="SimulatedImages/Flowchart.png" alt="Design Flowchart" width="1000"/>
 
-    <img src="SimulatedImages/Antenna_Top_View.png" alt="Top View" width="500"/>
+**Figure 2: Proposed Antenna Array (Top View)**
+<img src="SimulatedImages/Antenna_Top_View.png" alt="Top View" width="500"/>
 
-    <p><em>Figure 2: Proposed Antenna Array (Top View)</em></p>
+**Figure 3: Proposed Antenna Array (Side View)**
+<img src="SimulatedImages/Antenna_Side_View.png" alt="Side View" width="500"/>
 
-    <img src="SimulatedImages/Antenna_Side_View.png" alt="Side View" width="500"/>
+**Figure 4: 3D Simulation of the Antenna Array in HFSS**
+<img src="SimulatedImages/Simulated_Antenna.png" alt="Simulated Antenna" width="500"/>
 
-    <p><em>Figure 3: Proposed Antenna Array (Side View)</em></p>
+**Figure 5: Simulated Return Loss Plot**
+<img src="SimulatedImages/Return_Loss.png" alt="Return Loss" width="500"/>
 
-    <img src="SimulatedImages/Simulated_Antenna.png" alt="Simulated Antenna" width="500"/>
+**Figure 6: Simulated VSWR Plot**
+<img src="SimulatedImages/VSWR.png" alt="VSWR" width="500"/>
 
-    <p><em>Figure 4: 3D Simulation of the Antenna Array in HFSS</em></p>
-
-    <img src="SimulatedImages/Return_Loss.png" alt="Return Loss" width="500"/>
-
-    <p><em>Figure 5: Simulated Return Loss Plot</em></p>
-
-    <img src="SimulatedImages/VSWR.png" alt="VSWR" width="500"/>
-
-    <p><em>Figure 6: Simulated VSWR Plot</em></p>
-
-    <img src="SimulatedImages/Axial_Ratio_Plot.png" alt="Axial Ratio" width="500"/>
-
-    <p><em>Figure 7: Axial Ratio Plot</em></p>
-
-</div>
+**Figure 7: Axial Ratio Plot**
+<img src="SimulatedImages/Axial_Ratio_Plot.png" alt="Axial Ratio" width="500"/>
 
 ### 🏭 Fabricated Hardware & Testing
-<div align="center">
-    <img src="FabricatedImages/VNA_ReturnLoss.png" alt="VNA Return Loss" width="500"/>
 
-    <p><em>Figure 8: Measured Return Loss on VNA</em></p>
+**Figure 8: Measured Return Loss on VNA**
+<img src="FabricatedImages/VNA_ReturnLoss.png" alt="VNA Return Loss" width="500"/>
 
-    <img src="FabricatedImages/VNA_ReturnLoss_2.png" alt="VNA Return Loss 2" width="500"/>
+**Figure 9: Detailed VNA Return Loss Result**
+<img src="FabricatedImages/VNA_ReturnLoss_2.png" alt="VNA Return Loss 2" width="500"/>
 
-    <p><em>Figure 9: Detailed VNA Return Loss Result</em></p>
+**Figure 10: Measured Smith Chart**
+<img src="FabricatedImages/VNA_SmithChart.png" alt="VNA Smith Chart" width="500"/>
 
-    <img src="FabricatedImages/VNA_SmithChart.png" alt="VNA Smith Chart" width="500"/>
-
-    <p><em>Figure 10: Measured Smith Chart</em></p>
-
-    <img src="FabricatedImages/VNA_VSWR.png" alt="VNA VSWR" width="500"/>
-
-    <p><em>Figure 11: Measured VSWR</em></p>
-
-</div>
+**Figure 11: Measured VSWR**
+<img src="FabricatedImages/VNA_VSWR.png" alt="VNA VSWR" width="500"/>
 
 ## 🧑‍💻 Author
 **[Your Name]**
