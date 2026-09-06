@@ -396,8 +396,7 @@ Potential extensions of this work include:
 
 **Khatija Mahveen**
 
-**B.E. Electronics & Communication Engineering**
-**M.E. Embedded Systems**
+**B.E. Electronics & Communication Engineering**,**M.E. Embedded Systems**
 
 ### Research Interests
 
