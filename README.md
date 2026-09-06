@@ -71,12 +71,17 @@ Microstrip patch antennas are essential for modern wireless communication, but t
 
 <br>
 
-**Figure 9: Measured Smith Chart**
+**Figure 9: Detailed Measured Antenna Return Loss**
+<img src="FabricatedImages/VNA_Antenna_ReturnLoss.png" alt="VNA Antenna Return Loss" width="400"/>
+
+<br>
+
+**Figure 10: Measured Smith Chart**
 <img src="FabricatedImages/VNA_SmithChart.png" alt="VNA Smith Chart" width="400"/>
 
 <br>
 
-**Figure 10: Measured VSWR**
+**Figure 11: Measured VSWR**
 <img src="FabricatedImages/VNA_VSWR.png" alt="VNA VSWR" width="400"/>
 
 <br>
