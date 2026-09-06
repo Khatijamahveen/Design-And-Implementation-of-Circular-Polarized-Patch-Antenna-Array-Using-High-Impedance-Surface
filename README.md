@@ -90,14 +90,14 @@ Microstrip patch antennas are essential for modern wireless communication, but t
 ## 💡 Design Justifications
 
 - **Why a 2x2 Array?**
-  A single patch provides only ~6 dB gain. The 2x2 array achieves **7.49 dB** gain, essential for overcoming path loss.\
+  A single patch provides only ~6 dB gain. The 2x2 array achieves **7.49 dB** gain, essential for overcoming path loss.
   
 - **Why the EBG (High Impedance) Structure?**
   Traditional antennas suffer from surface wave losses. The EBG suppresses these waves, reducing back lobe radiation and improving radiation efficiency from **38% to 61%**.
   
 - **Why FR-4 Substrate?**
 - FR-4 was chosen for its **low cost, easy availability, and simplified photolithography process**. While not the highest performance substrate, it ensures the design is feasible for mass production.
-- 
+  
 - **Key Validation Step:** Ensured simulation-to-reality correlation. Testing the fabricated antenna on a VNA achieved a high correlation between simulated (-37.42 dB) and measured (-39.9 dB) return loss, proving the design's reliability.
 
 ## 🎓 Connection to PhD Goals
