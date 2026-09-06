@@ -86,24 +86,28 @@ Microstrip patch antennas are essential for modern wireless communication, but t
 
 
 <br>
-## 💡 Design Justifications & Key Takeaways
 
-**Why did I use a 2x2 Array?**
-Using a single patch antenna at 2.4 GHz only provides a gain of around 6 dB. By using a 2x2 array, I was able to achieve a much higher gain of **7.49 dB**, which is critical for overcoming path loss in long-distance wireless communication.
+## 💡 Design Justifications
 
-**Why did I use the EBG (High Impedance) Structure?**
-Traditional microstrip patch antennas suffer from "surface waves" that travel along the substrate. These waves cause loss of energy and reduce efficiency. By adding a Mushroom-type EBG structure, I was able to suppress these surface waves, reduce back lobe radiation, and improve the antenna's radiation efficiency from **38% to 61%**.
+- **Why a 2x2 Array?**
+- A single patch provides only ~6 dB gain. The 2x2 array achieves **7.49 dB** gain, essential for overcoming path loss.\
+- 
+- **Why the EBG (High Impedance) Structure?**
+- Traditional antennas suffer from surface wave losses. The EBG suppresses these waves, reducing back lobe radiation and improving radiation efficiency from **38% to 61%**.
+- 
+- **Why FR-4 Substrate?** FR-4 was chosen for its **low cost, easy availability, and simplified photolithography process**.
+- While not the highest performance substrate, it ensures the design is feasible for mass production.
+- 
+- **Key Validation Step:** Ensured simulation-to-reality correlation. Testing the fabricated antenna on a VNA achieved a high correlation between simulated (-37.42 dB) and measured (-39.9 dB) return loss, proving the design's reliability.
 
-**Why did I use FR-4 Substrate?**
-While FR-4 has a higher loss tangent compared to expensive substrates like Rogers, it was chosen for this project because of its **extremely low cost, ease of availability, and simplified fabrication process** using standard photolithography. This makes the design highly feasible for commercial mass production.
+## 🎓 Connection to PhD Goals
 
-**Key Validation Step:**
-One of the most important aspects of my B.E. project was ensuring the simulation matched reality. By testing the fabricated antenna with a Vector Network Analyzer (VNA), I achieved a **high correlation** between the simulated (-37.42 dB) and measured (-39.9 dB) return loss, proving the reliability of my HFSS design.
+This project provided hands-on experience with:
+- **Electromagnetic Simulation (HFSS)**
+- **CAD Modeling & Fabrication**
+- **RF Testing & Validation (VNA)**
 
----
-
-### 🎓 How this project connects to my PhD goals:
-This project gave me hands-on experience with **Electromagnetic Simulation tools (HFSS), CAD modeling, photolithography-based fabrication, and RF testing equipment**. These skills are directly transferable to advanced research in **RF front-end design, wearable antennas, and low-power IoT communication systems**, which I aim to explore in my doctoral studies.
+These skills are directly transferable to advanced research in **RF front-end design, wearable antennas, and low-power IoT communication systems**, which I aim to explore in my doctoral studies.
 
 ## 🧑‍💻 Author
 **Khatija Mahveen**
